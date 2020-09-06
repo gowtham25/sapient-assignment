@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sapient-assignment/static/css/main.bfd03216.chunk.css",
-    "main.js": "/sapient-assignment/static/js/main.0f29492e.chunk.js",
-    "main.js.map": "/sapient-assignment/static/js/main.0f29492e.chunk.js.map",
+    "main.js": "/sapient-assignment/static/js/main.e0d95df4.chunk.js",
+    "main.js.map": "/sapient-assignment/static/js/main.e0d95df4.chunk.js.map",
     "runtime-main.js": "/sapient-assignment/static/js/runtime-main.b842aa2c.js",
     "runtime-main.js.map": "/sapient-assignment/static/js/runtime-main.b842aa2c.js.map",
-    "static/js/2.de61f05e.chunk.js": "/sapient-assignment/static/js/2.de61f05e.chunk.js",
-    "static/js/2.de61f05e.chunk.js.map": "/sapient-assignment/static/js/2.de61f05e.chunk.js.map",
+    "static/js/2.de30e62b.chunk.js": "/sapient-assignment/static/js/2.de30e62b.chunk.js",
+    "static/js/2.de30e62b.chunk.js.map": "/sapient-assignment/static/js/2.de30e62b.chunk.js.map",
     "index.html": "/sapient-assignment/index.html",
-    "precache-manifest.404d8afaefa5388cfdf9557a3429aef6.js": "/sapient-assignment/precache-manifest.404d8afaefa5388cfdf9557a3429aef6.js",
+    "precache-manifest.6b9d5db6fbe39dcccb5a8fd663be9bf4.js": "/sapient-assignment/precache-manifest.6b9d5db6fbe39dcccb5a8fd663be9bf4.js",
     "service-worker.js": "/sapient-assignment/service-worker.js",
     "static/css/main.bfd03216.chunk.css.map": "/sapient-assignment/static/css/main.bfd03216.chunk.css.map",
-    "static/js/2.de61f05e.chunk.js.LICENSE.txt": "/sapient-assignment/static/js/2.de61f05e.chunk.js.LICENSE.txt"
+    "static/js/2.de30e62b.chunk.js.LICENSE.txt": "/sapient-assignment/static/js/2.de30e62b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b842aa2c.js",
-    "static/js/2.de61f05e.chunk.js",
+    "static/js/2.de30e62b.chunk.js",
     "static/css/main.bfd03216.chunk.css",
-    "static/js/main.0f29492e.chunk.js"
+    "static/js/main.e0d95df4.chunk.js"
   ]
 }
